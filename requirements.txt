@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+beautifulsoup4
+requests
+chromadb
+python-dotenv
+tiktoken
+streamlit
+Flask 
+Flask-Cors
